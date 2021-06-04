@@ -1,5 +1,5 @@
 # Attendance_Bot
-Microsoft Teams auto-generated attendacne sheet looks like this: 
+Microsoft Teams' auto-generated attendacne sheet looks like this: 
 
 ![image](https://user-images.githubusercontent.com/71385220/120803695-7ec5a300-c54c-11eb-8e6d-f15ad22cc78a.png)
 
